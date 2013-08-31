@@ -35,10 +35,9 @@ def iterate_pages():
     urls = []
     output_file = file("report_page_urls.txt", 'a')
     for page_number in range(10, 579):
-        print page_number
         top_page_url = top_page_url_base + str(page_number)
         res = requests.get(top_page_url, headers=HEADERS)
-        logger.info("Crawling top page url "+top_page_url)
+        logger.warn("Crawling top page url "+top_page_url)
         soup = BeautifulSoup(res.text)
         logger.warn("First item on this page is "+str(soup.findAll('div', attrs={"class":"m_table_tit"})[2]))
         for ele in soup.findAll(href=re.compile("show\?rid")):
