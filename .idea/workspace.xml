@@ -4,7 +4,7 @@
     <list default="true" id="37687248-40e5-459e-b44a-03e2971e795b" name="Default" comment="" />
     <ignored path="weibo_rumor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/rumor_report_crawler.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1377970168954" ignored="false" />
+    <file path="/rumor_report_crawler.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1377970628364" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
       <file leaf-file-name="rumor_report_crawler.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rumor_report_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.57569295">
+            <state line="52" column="0" selection-start="1411" selection-end="1411" vertical-scroll-proportion="0.84008527">
               <folding>
                 <element signature="e#14#23#0" expanded="true" />
               </folding>
@@ -392,9 +392,16 @@
         <state line="1552" column="46" selection-start="59798" selection-end="59798" vertical-scroll-proportion="0.3580599" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/report_page_urls.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rumor_report_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.57569295">
+        <state line="52" column="0" selection-start="1411" selection-end="1411" vertical-scroll-proportion="0.84008527">
           <folding>
             <element signature="e#14#23#0" expanded="true" />
           </folding>
