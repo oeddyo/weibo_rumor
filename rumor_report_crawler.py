@@ -43,7 +43,7 @@ def iterate_pages():
             logger.warn("Exception! Sleep 300s")
             time.sleep(300)
 
-        if res.status.code != 200:
+        if res.status_code != 200:
             logger.warn("Banned. Sleep 300s")
             time.sleep(300)
 
