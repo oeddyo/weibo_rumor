@@ -34,12 +34,25 @@ def iterate_pages():
     each_page_base = u'http://service.account.weibo.com'
     urls = []
     output_file = file("report_page_urls.txt", 'a')
-    for page_number in range(10, 579):
+    for page_number in range(173, 579):
         top_page_url = top_page_url_base + str(page_number)
-        res = requests.get(top_page_url, headers=HEADERS)
+        try:
+            res = requests.get(top_page_url, headers=HEADERS)
+        except:
+            time.sleep(300)
+            logger.warn("Exception! Sleep 300s")
+            time.sleep(300)
+
+        if res.status.code != 200:
+            logger.warn("Banned. Sleep 300s")
+            time.sleep(300)
+
         logger.warn("Crawling top page url "+top_page_url)
         soup = BeautifulSoup(res.text)
         logger.warn("First item on this page is "+str(soup.findAll('div', attrs={"class":"m_table_tit"})[2]))
+        logger.warn("Code = "+str(res.status.code))
+
+
         for ele in soup.findAll(href=re.compile("show\?rid")):
             _url = each_page_base + ele['href']
             output_file.write(_url + '\n')
