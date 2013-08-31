@@ -42,15 +42,19 @@ def iterate_pages():
             time.sleep(300)
             logger.warn("Exception! Sleep 300s")
             time.sleep(300)
+            continue
 
         if res.status_code != 200:
             logger.warn("Banned. Sleep 300s")
             time.sleep(300)
+            continue
 
         logger.warn("Crawling top page url "+top_page_url)
-        soup = BeautifulSoup(res.text)
-        logger.warn("First item on this page is "+str(soup.findAll('div', attrs={"class":"m_table_tit"})[2]))
         logger.warn("Code = "+str(res.status_code))
+
+        soup = BeautifulSoup(res.text)
+
+        logger.warn("First item on this page is "+str(soup.findAll('div', attrs={"class":"m_table_tit"})[2]))
 
 
         for ele in soup.findAll(href=re.compile("show\?rid")):
