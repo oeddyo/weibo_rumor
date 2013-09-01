@@ -5,6 +5,7 @@ import logging
 import pymongo
 import random
 import time
+import cookie
 
 
 logging.basicConfig(filename = "./url_download.log",
@@ -22,7 +23,7 @@ def save_to_mongo(url, page):
 def download_and_save(url):
     logging.warn('Downloading url ' + url)
     try:
-        res = requests.get(url, headers = {"cookie":config.cookie}, timeout=20)
+        res = requests.get(url, headers = {"cookie":cookie.cookie}, timeout=20)
     except requests.exceptions.Timeout:
         logging.warn("Banned. Sleep for 10 minutes.")
         time.sleep(600)
