@@ -12,4 +12,4 @@ if __name__ == "__main__":
     q = Queue(connection=redis_conn)
 
     for line in lines:
-        q.enqueue_call(func=download_and_save(),args=((line,),), timeout=572000)
+        q.enqueue_call(func=download_and_save,args=((line,),), timeout=572000)
