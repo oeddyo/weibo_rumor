@@ -60,19 +60,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="submit_jobs.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="submit_jobs.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/submit_jobs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="22" selection-start="331" selection-end="331" vertical-scroll-proportion="0.41577825">
+            <state line="13" column="22" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.0">
+            <state line="1" column="28" selection-start="999" selection-end="999" vertical-scroll-proportion="0.032894738">
               <folding />
             </state>
           </provider>
@@ -503,16 +503,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
+    <entry file="file://$PROJECT_DIR$/submit_jobs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.0">
+        <state line="13" column="22" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/submit_jobs.py">
+    <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="331" selection-end="331" vertical-scroll-proportion="0.41577825">
+        <state line="1" column="28" selection-start="999" selection-end="999" vertical-scroll-proportion="0.032894738">
           <folding />
         </state>
       </provider>
