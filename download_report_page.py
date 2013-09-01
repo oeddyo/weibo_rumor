@@ -31,7 +31,7 @@ def download_and_save(url):
     try:
         save_to_mongo(url, res.text)
     except Exception as e:
-        logging.warn("Inserting to mongo-db error!" + str(e))
+        logging.warn("Inserting to mongo-db error!" )
         return False
     time.sleep(random.randint(1,15))
     return True
