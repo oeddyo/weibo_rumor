@@ -21,7 +21,7 @@ def save_to_mongo(url, page):
     mongo_collection.insert(page_to_insert)
 
 def download_and_save(url):
-    logging.warn('Downloading url ' + url)
+    logging.warn('Downloading url ' + str(url))
     try:
         res = requests.get(url, headers = {"cookie":cookie.cookie}, timeout=20)
     except requests.exceptions.Timeout:
