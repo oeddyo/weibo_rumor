@@ -1,0 +1,5 @@
+[2013-09-02 17:56:23,725] [WARNING] (MainThread) Downloading url http://service.account.weibo.com/show?rid=K1CaJ8Apd8q4m 
+[2013-09-02 17:56:23,737] [INFO] (MainThread) Starting new HTTP connection (1): service.account.weibo.com 
+[2013-09-02 17:56:28,160] [DEBUG] (MainThread) "GET /show?rid=K1CaJ8Apd8q4m HTTP/1.1" 302 20 
+[2013-09-02 17:56:28,162] [INFO] (MainThread) Starting new HTTPS connection (1): login.sina.com.cn 
+[2013-09-02 17:56:30,537] [DEBUG] (MainThread) "GET /sso/login.php?url=http%3A%2F%2Fservice.account.weibo.com%2Fshow%3Frid%3DK1CaJ8Apd8q4m&_rand=1378158988.316&gateway=1&service=miniblog&useticket=1&returntype=META HTTP/1.1" 200 319 

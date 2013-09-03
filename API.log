@@ -1,0 +1,686 @@
+[2013-09-02 21:59:44,260] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 21:59:44,265] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 21:59:44,265] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 21:59:44,265] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 21:59:44,266] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 21:59:44,707] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 21:59:45,295] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 318 
+[2013-09-02 21:59:45,297] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 21:59:45,705] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3531978391363663 HTTP/1.1" 200 1059 
+[2013-09-02 21:59:45,738] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 21:59:46,216] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 317 
+[2013-09-02 21:59:46,217] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 21:59:46,626] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3531962709301858 HTTP/1.1" 200 1027 
+[2013-09-02 21:59:47,036] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 317 
+[2013-09-02 21:59:47,037] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 21:59:47,447] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532155806402729 HTTP/1.1" 200 1216 
+[2013-09-02 21:59:47,796] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 318 
+[2013-09-02 21:59:47,797] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 21:59:48,115] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3531836842550486 HTTP/1.1" 200 1185 
+[2013-09-02 21:59:48,569] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 318 
+[2013-09-02 21:59:48,570] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 21:59:48,892] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3531550571933166 HTTP/1.1" 200 1021 
+[2013-09-02 21:59:49,289] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 318 
+[2013-09-02 21:59:49,290] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 21:59:49,635] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3531158505860495 HTTP/1.1" 200 1136 
+[2013-09-02 21:59:49,669] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 21:59:50,238] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 318 
+[2013-09-02 21:59:50,238] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 21:59:50,576] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3531534726167643 HTTP/1.1" 200 1031 
+[2013-09-02 21:59:50,959] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 318 
+[2013-09-02 21:59:50,960] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 21:59:51,436] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3532139088100112 HTTP/1.1" 200 1086 
+[2013-09-02 21:59:51,470] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 21:59:52,051] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 318 
+[2013-09-02 21:59:52,051] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 21:59:52,460] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3532183077502246 HTTP/1.1" 200 1117 
+[2013-09-02 21:59:52,494] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 21:59:53,037] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 318 
+[2013-09-02 21:59:53,038] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 21:59:53,483] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532183421119383 HTTP/1.1" 200 1111 
+[2013-09-02 21:59:53,995] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 319 
+[2013-09-02 21:59:53,996] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 21:59:54,508] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532205676450334 HTTP/1.1" 200 1172 
+[2013-09-02 21:59:55,121] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 317 
+[2013-09-02 21:59:55,122] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 21:59:55,620] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532218045063998 HTTP/1.1" 200 1138 
+[2013-09-02 21:59:56,154] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 317 
+[2013-09-02 21:59:56,155] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 21:59:56,654] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532127465810766 HTTP/1.1" 200 1643 
+[2013-09-02 21:59:57,181] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 319 
+[2013-09-02 21:59:57,181] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 21:59:58,088] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531965485117180 HTTP/1.1" 200 1096 
+[2013-09-02 21:59:58,678] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 318 
+[2013-09-02 21:59:58,680] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 21:59:59,627] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532127263608088 HTTP/1.1" 200 1254 
+[2013-09-02 21:59:59,999] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 318 
+[2013-09-02 21:59:59,999] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:00:01,150] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3531952675651819 HTTP/1.1" 200 1227 
+[2013-09-02 22:00:01,671] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 317 
+[2013-09-02 22:00:01,672] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:00:02,756] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532233618568132 HTTP/1.1" 200 1115 
+[2013-09-02 22:00:03,164] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 319 
+[2013-09-02 22:00:03,164] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:00:03,676] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3532115935085882 HTTP/1.1" 200 1073 
+[2013-09-02 22:00:04,196] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 319 
+[2013-09-02 22:00:04,196] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:00:04,530] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532166551737779 HTTP/1.1" 200 952 
+[2013-09-02 22:00:04,924] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:00:04,925] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:00:08,435] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531807033128932 HTTP/1.1" 200 1317 
+[2013-09-02 22:00:09,232] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 319 
+[2013-09-02 22:00:09,233] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:00:10,079] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3531768672525663 HTTP/1.1" 200 1249 
+[2013-09-02 22:00:10,436] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 321 
+[2013-09-02 22:00:10,437] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:00:10,923] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531468229934700 HTTP/1.1" 200 1186 
+[2013-09-02 22:00:11,281] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:00:11,282] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:00:11,809] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=353216651520383 HTTP/1.1" 400 110 
+[2013-09-02 22:01:29,758] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:01:29,763] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:01:29,763] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:01:29,763] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:01:29,763] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:01:30,303] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:01:30,909] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 318 
+[2013-09-02 22:01:30,911] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:01:31,332] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3531978391363663 HTTP/1.1" 200 1059 
+[2013-09-02 22:01:31,364] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:01:32,046] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:01:32,047] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:01:32,455] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531962709301858 HTTP/1.1" 200 1027 
+[2013-09-02 22:01:32,489] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:01:33,171] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-02 22:01:33,172] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:01:33,572] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532155806402729 HTTP/1.1" 200 1216 
+[2013-09-02 22:01:34,095] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:01:34,095] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:01:34,606] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3531836842550486 HTTP/1.1" 200 1185 
+[2013-09-02 22:01:35,017] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:01:35,018] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:01:35,528] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3531550571933166 HTTP/1.1" 200 1021 
+[2013-09-02 22:01:35,937] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:01:35,938] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:01:36,351] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3531158505860495 HTTP/1.1" 200 1136 
+[2013-09-02 22:01:36,384] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:01:37,055] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:01:37,055] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:01:37,453] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3531534726167643 HTTP/1.1" 200 1031 
+[2013-09-02 22:01:37,605] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:01:38,014] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:01:38,014] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:01:38,372] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532139088100112 HTTP/1.1" 200 1086 
+[2013-09-02 22:01:38,803] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:01:38,803] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:01:39,156] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532183077502246 HTTP/1.1" 200 1117 
+[2013-09-02 22:01:39,520] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:01:39,520] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:01:39,870] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532183421119383 HTTP/1.1" 200 1111 
+[2013-09-02 22:01:40,244] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 320 
+[2013-09-02 22:01:40,245] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:01:40,560] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3532205676450334 HTTP/1.1" 200 1172 
+[2013-09-02 22:01:40,892] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:01:40,893] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:01:41,265] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532218045063998 HTTP/1.1" 200 1138 
+[2013-09-02 22:01:41,672] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:01:41,673] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:01:42,007] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532127465810766 HTTP/1.1" 200 1644 
+[2013-09-02 22:01:42,345] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 320 
+[2013-09-02 22:01:42,346] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:01:42,672] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3531965485117180 HTTP/1.1" 200 1096 
+[2013-09-02 22:01:43,101] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:01:43,102] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:01:43,420] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532127263608088 HTTP/1.1" 200 1254 
+[2013-09-02 22:01:43,754] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:01:43,755] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:01:44,127] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3531952675651819 HTTP/1.1" 200 1227 
+[2013-09-02 22:01:44,503] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:01:44,503] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:01:44,944] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3532233618568132 HTTP/1.1" 200 1115 
+[2013-09-02 22:01:45,455] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:01:45,456] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:01:46,377] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532115935085882 HTTP/1.1" 200 1074 
+[2013-09-02 22:01:47,070] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:01:47,071] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:01:47,455] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532166551737779 HTTP/1.1" 200 952 
+[2013-09-02 22:01:48,348] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:01:48,348] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:01:48,679] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531807033128932 HTTP/1.1" 200 1316 
+[2013-09-02 22:01:49,037] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 320 
+[2013-09-02 22:01:49,038] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:01:50,166] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3531768672525663 HTTP/1.1" 200 1249 
+[2013-09-02 22:01:50,778] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:01:50,778] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:01:51,116] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531468229934700 HTTP/1.1" 200 1186 
+[2013-09-02 22:01:51,502] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:01:51,504] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:01:52,416] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=353216651520383 HTTP/1.1" 400 110 
+[2013-09-02 22:01:52,417] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:01:53,685] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:01:53,687] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:01:54,872] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532352841961477 HTTP/1.1" 200 1088 
+[2013-09-02 22:01:55,487] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:01:55,487] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:01:55,895] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=353150852650840 HTTP/1.1" 400 110 
+[2013-09-02 22:01:55,897] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:01:56,490] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:01:56,491] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:01:56,919] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3532330398651594 HTTP/1.1" 200 1072 
+[2013-09-02 22:01:57,510] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:01:57,511] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:01:57,832] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3530877953280674 HTTP/1.1" 200 1078 
+[2013-09-02 22:01:58,440] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:01:58,441] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:01:59,594] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3532209762013454 HTTP/1.1" 200 1073 
+[2013-09-02 22:02:00,092] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-02 22:02:00,092] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:00,478] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532209439278939 HTTP/1.1" 200 1072 
+[2013-09-02 22:02:00,911] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:00,911] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:01,321] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532206553132030 HTTP/1.1" 200 1071 
+[2013-09-02 22:02:02,860] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:02,860] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:04,245] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=353220602859446 HTTP/1.1" 400 110 
+[2013-09-02 22:02:04,246] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:02:04,697] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:04,698] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:05,138] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532203747679833 HTTP/1.1" 200 1067 
+[2013-09-02 22:02:05,619] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:02:05,620] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:02:06,155] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532261011809163 HTTP/1.1" 200 1073 
+[2013-09-02 22:02:06,758] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:02:06,758] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:02:07,259] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=353221859366550 HTTP/1.1" 400 110 
+[2013-09-02 22:02:07,260] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:02:07,666] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:02:07,667] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:02:08,111] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=353127886712489 HTTP/1.1" 400 110 
+[2013-09-02 22:02:08,112] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:02:08,467] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:02:08,468] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:02:09,058] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3531157301666442 HTTP/1.1" 200 1244 
+[2013-09-02 22:02:09,681] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:02:09,682] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:02:10,122] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3530125637252504 HTTP/1.1" 200 1202 
+[2013-09-02 22:02:11,759] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:11,760] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:12,106] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3524964458047200 HTTP/1.1" 200 1139 
+[2013-09-02 22:02:12,497] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-02 22:02:12,499] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:13,186] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3526712279402895 HTTP/1.1" 200 1302 
+[2013-09-02 22:02:13,807] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:02:13,807] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:02:14,366] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3526019803754303 HTTP/1.1" 200 1250 
+[2013-09-02 22:02:14,727] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:02:14,727] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:02:15,059] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3526791279041276 HTTP/1.1" 200 1312 
+[2013-09-02 22:02:15,408] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:15,410] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:15,854] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3531589097045397 HTTP/1.1" 200 1191 
+[2013-09-02 22:02:16,281] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:16,282] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:16,675] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532316599634022 HTTP/1.1" 200 1112 
+[2013-09-02 22:02:17,036] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:17,038] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:17,389] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532262362179252 HTTP/1.1" 200 1180 
+[2013-09-02 22:02:17,901] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:02:17,902] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:02:18,310] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3530076513520848 HTTP/1.1" 200 1082 
+[2013-09-02 22:02:18,720] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:18,721] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:19,436] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532950601490048 HTTP/1.1" 200 1240 
+[2013-09-02 22:02:19,794] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:02:19,794] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:02:20,136] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=353287515114415 HTTP/1.1" 400 110 
+[2013-09-02 22:02:20,137] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:02:20,531] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 320 
+[2013-09-02 22:02:20,532] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:02:21,190] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3532914879268371 HTTP/1.1" 200 1182 
+[2013-09-02 22:02:21,584] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 320 
+[2013-09-02 22:02:21,584] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:21,996] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532899825071070 HTTP/1.1" 200 1267 
+[2013-09-02 22:02:22,601] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:22,602] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:23,001] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3531978391363663 HTTP/1.1" 200 1059 
+[2013-09-02 22:02:23,530] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-02 22:02:23,530] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:24,257] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=353257352790322 HTTP/1.1" 400 110 
+[2013-09-02 22:02:24,257] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:02:24,964] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:24,964] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:25,475] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532894309655677 HTTP/1.1" 200 1279 
+[2013-09-02 22:02:26,396] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:26,396] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:27,113] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532946873262471 HTTP/1.1" 200 1021 
+[2013-09-02 22:02:27,726] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:02:27,727] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:02:28,773] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532940258351242 HTTP/1.1" 200 1162 
+[2013-09-02 22:02:29,876] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:02:29,876] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:02:30,312] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3532890178917843 HTTP/1.1" 200 1114 
+[2013-09-02 22:02:30,799] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 321 
+[2013-09-02 22:02:30,800] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:02:31,822] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3532916183521729 HTTP/1.1" 200 1251 
+[2013-09-02 22:02:32,539] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:32,540] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:33,601] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532933115341132 HTTP/1.1" 200 1227 
+[2013-09-02 22:02:34,189] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:02:34,190] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:02:34,686] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3529687797669912 HTTP/1.1" 200 1288 
+[2013-09-02 22:02:35,301] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:35,301] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:35,812] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532884071655306 HTTP/1.1" 200 1174 
+[2013-09-02 22:02:36,280] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:02:36,280] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:02:36,737] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3532694899917841 HTTP/1.1" 200 835 
+[2013-09-02 22:02:37,248] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:02:37,249] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:02:37,757] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3530194306056873 HTTP/1.1" 200 1136 
+[2013-09-02 22:02:38,242] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:38,243] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:38,708] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532690169455708 HTTP/1.1" 200 1177 
+[2013-09-02 22:02:39,394] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:39,395] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:39,987] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532840643518705 HTTP/1.1" 200 1234 
+[2013-09-02 22:02:40,572] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:40,573] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:41,100] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532575748761361 HTTP/1.1" 200 1234 
+[2013-09-02 22:02:41,647] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 321 
+[2013-09-02 22:02:41,647] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:02:42,623] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3532719839933156 HTTP/1.1" 200 1154 
+[2013-09-02 22:02:43,148] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:43,148] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:43,795] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532665565566855 HTTP/1.1" 200 1229 
+[2013-09-02 22:02:44,409] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:44,410] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:44,853] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532597747683973 HTTP/1.1" 200 1274 
+[2013-09-02 22:02:45,385] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:45,385] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:45,966] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532583411534171 HTTP/1.1" 200 1291 
+[2013-09-02 22:02:46,559] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:02:46,560] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:02:47,685] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532600507531863 HTTP/1.1" 200 1243 
+[2013-09-02 22:02:49,076] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:49,077] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:50,141] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532540005039375 HTTP/1.1" 200 1293 
+[2013-09-02 22:02:50,755] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 320 
+[2013-09-02 22:02:50,756] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:51,361] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532195198870869 HTTP/1.1" 200 1080 
+[2013-09-02 22:02:51,984] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:02:51,984] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:02:52,393] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531561934436883 HTTP/1.1" 200 1337 
+[2013-09-02 22:02:52,801] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:02:52,802] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:02:53,212] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3519529378047185 HTTP/1.1" 200 1228 
+[2013-09-02 22:02:53,621] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:02:53,622] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:02:53,961] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=353307255680778 HTTP/1.1" 400 110 
+[2013-09-02 22:02:53,961] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:02:54,301] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:54,302] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:54,623] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3533051785430488 HTTP/1.1" 200 1148 
+[2013-09-02 22:02:55,012] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-02 22:02:55,012] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:02:55,463] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532657386723950 HTTP/1.1" 200 1265 
+[2013-09-02 22:02:55,875] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:02:55,875] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:02:56,283] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3533025495368371 HTTP/1.1" 200 1004 
+[2013-09-02 22:02:56,692] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:56,692] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:57,054] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3533006268421288 HTTP/1.1" 200 1260 
+[2013-09-02 22:02:57,444] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:02:57,444] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:02:57,818] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3532841356851582 HTTP/1.1" 200 1188 
+[2013-09-02 22:02:58,227] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:02:58,228] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:02:58,623] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532992208896334 HTTP/1.1" 200 1148 
+[2013-09-02 22:02:59,148] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:02:59,149] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:02:59,529] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3532949045179822 HTTP/1.1" 200 1090 
+[2013-09-02 22:03:00,479] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-02 22:03:00,480] [DEBUG] (MainThread) Using API index 4 
+[2013-09-02 22:03:00,975] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3533021464212168 HTTP/1.1" 200 1173 
+[2013-09-02 22:03:03,363] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:03:03,363] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:03:03,856] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3531578628197161 HTTP/1.1" 200 1142 
+[2013-09-02 22:03:04,366] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:03:04,367] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:03:05,518] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532999301502408 HTTP/1.1" 200 1222 
+[2013-09-02 22:03:06,006] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:03:06,006] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:03:06,483] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=353107623226179 HTTP/1.1" 400 110 
+[2013-09-02 22:03:06,483] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:03:06,964] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:03:06,965] [DEBUG] (MainThread) Using API index 1 
+[2013-09-02 22:03:07,975] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=353291430201078 HTTP/1.1" 400 110 
+[2013-09-02 22:03:07,976] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:03:08,506] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-02 22:03:08,507] [DEBUG] (MainThread) Using API index 3 
+[2013-09-02 22:03:08,975] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3532952539037537 HTTP/1.1" 200 1134 
+[2013-09-02 22:03:09,589] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-02 22:03:09,590] [DEBUG] (MainThread) Using API index 0 
+[2013-09-02 22:03:09,998] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532558425416636 HTTP/1.1" 200 1352 
+[2013-09-02 22:03:10,484] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 321 
+[2013-09-02 22:03:10,485] [DEBUG] (MainThread) Using API index 2 
+[2013-09-02 22:03:12,863] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3533265652225131 HTTP/1.1" 200 993 
+[2013-09-02 22:04:32,745] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:04:32,750] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:04:32,750] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:04:32,750] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:04:32,750] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:04:52,479] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:04:52,484] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:04:52,484] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:04:52,484] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:04:52,484] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:05:15,278] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:05:15,282] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:05:15,283] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:05:15,283] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:05:15,283] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:07:57,513] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:07:57,517] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:07:57,517] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:07:57,517] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:07:57,518] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:08:22,578] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:08:22,583] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:08:22,583] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:08:22,583] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:08:22,583] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:08:31,924] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:08:31,929] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:08:31,929] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:08:31,929] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:08:31,929] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:08:52,531] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:08:52,535] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:08:52,536] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:08:52,536] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:08:52,536] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:09:02,699] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:09:02,704] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:09:02,704] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:09:02,704] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:09:02,705] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:09:28,811] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:09:28,816] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:09:28,816] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:09:28,816] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:09:28,816] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:09:49,077] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:09:49,081] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:09:49,081] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:09:49,082] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:09:49,082] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:10:38,230] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:10:38,234] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:10:38,235] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:10:38,235] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:10:38,235] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:10:53,125] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:10:53,129] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:10:53,129] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:10:53,130] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:10:53,130] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:11:08,975] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:11:08,979] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:11:08,979] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:11:08,980] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:11:08,980] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:12:34,079] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:12:34,084] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:12:34,084] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:12:34,084] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:12:34,084] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:13:01,127] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:13:01,132] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:13:01,132] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:13:01,132] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:13:01,132] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:14:31,166] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:14:31,171] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:14:31,171] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:14:31,172] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:14:31,172] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:14:59,486] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:14:59,490] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:14:59,490] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:14:59,491] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:14:59,491] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:15:08,267] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:15:08,272] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:15:08,272] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:15:08,272] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:15:08,273] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:15:23,504] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:15:23,508] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:15:23,508] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:15:23,509] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:15:23,509] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:15:31,622] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:15:31,627] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:15:31,627] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:15:31,627] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:15:31,628] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:15:42,690] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:15:42,695] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:15:42,695] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:15:42,695] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:15:42,695] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:15:50,353] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:15:50,357] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:15:50,357] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:15:50,358] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:15:50,358] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:17:59,983] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:17:59,988] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:17:59,988] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:17:59,988] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:17:59,989] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:18:22,748] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:18:22,753] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:18:22,753] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:18:22,753] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:18:22,754] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:19:43,867] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:19:43,872] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:19:43,872] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:19:43,872] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:19:43,872] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:20:01,468] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:20:01,472] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:20:01,473] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:20:01,473] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:20:01,473] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:20:42,630] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:20:42,635] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:20:42,636] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:20:42,636] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:20:42,636] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:21:52,191] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:21:52,195] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:21:52,195] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:21:52,195] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:21:52,196] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:26:31,844] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:26:31,848] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:26:31,849] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:26:31,849] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:26:31,849] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:26:32,137] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:26:34,098] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:26:34,099] [DEBUG] (MainThread) Using API index 1, remains = 150 
+[2013-09-02 22:26:34,579] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3531978391363663 HTTP/1.1" 200 1059 
+[2013-09-02 22:26:34,645] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:26:35,126] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-02 22:26:35,126] [DEBUG] (MainThread) Using API index 4, remains = 131 
+[2013-09-02 22:26:35,605] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3531962709301858 HTTP/1.1" 200 1027 
+[2013-09-02 22:26:35,672] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:26:37,310] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 320 
+[2013-09-02 22:26:37,311] [DEBUG] (MainThread) Using API index 3, remains = 150 
+[2013-09-02 22:26:37,753] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3532155806402729 HTTP/1.1" 200 1215 
+[2013-09-02 22:26:37,827] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:26:39,989] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 319 
+[2013-09-02 22:26:39,989] [DEBUG] (MainThread) Using API index 0, remains = 150 
+[2013-09-02 22:26:40,828] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3531836842550486 HTTP/1.1" 200 1185 
+[2013-09-02 22:26:40,895] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:26:42,616] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:26:42,617] [DEBUG] (MainThread) Using API index 2, remains = 150 
+[2013-09-02 22:26:42,970] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531550571933166 HTTP/1.1" 200 1020 
+[2013-09-02 22:26:43,385] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-02 22:26:43,386] [DEBUG] (MainThread) Using API index 4, remains = 130 
+[2013-09-02 22:26:43,876] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3531158505860495 HTTP/1.1" 200 1136 
+[2013-09-02 22:26:44,299] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-02 22:26:44,300] [DEBUG] (MainThread) Using API index 0, remains = 149 
+[2013-09-02 22:26:45,206] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3531534726167643 HTTP/1.1" 200 1031 
+[2013-09-02 22:26:45,916] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-02 22:26:45,916] [DEBUG] (MainThread) Using API index 1, remains = 149 
+[2013-09-02 22:26:46,917] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532139088100112 HTTP/1.1" 200 1085 
+[2013-09-02 22:26:47,356] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-02 22:26:47,356] [DEBUG] (MainThread) Using API index 0, remains = 148 
+[2013-09-02 22:26:47,922] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532183077502246 HTTP/1.1" 200 1117 
+[2013-09-02 22:26:48,610] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:26:48,611] [DEBUG] (MainThread) Using API index 1, remains = 148 
+[2013-09-02 22:26:49,100] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532183421119383 HTTP/1.1" 200 1111 
+[2013-09-02 22:26:49,524] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 320 
+[2013-09-02 22:26:49,525] [DEBUG] (MainThread) Using API index 0, remains = 147 
+[2013-09-02 22:26:50,656] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532205676450334 HTTP/1.1" 200 1172 
+[2013-09-02 22:26:51,093] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 320 
+[2013-09-02 22:26:51,094] [DEBUG] (MainThread) Using API index 4, remains = 129 
+[2013-09-02 22:26:51,474] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532218045063998 HTTP/1.1" 200 1137 
+[2013-09-02 22:26:52,092] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:26:52,093] [DEBUG] (MainThread) Using API index 2, remains = 149 
+[2013-09-02 22:26:52,471] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3532127465810766 HTTP/1.1" 200 1644 
+[2013-09-02 22:26:53,080] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 321 
+[2013-09-02 22:26:53,081] [DEBUG] (MainThread) Using API index 3, remains = 149 
+[2013-09-02 22:26:53,447] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3531965485117180 HTTP/1.1" 200 1096 
+[2013-09-02 22:26:54,123] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:26:54,123] [DEBUG] (MainThread) Using API index 2, remains = 148 
+[2013-09-02 22:26:54,483] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3532127263608088 HTTP/1.1" 200 1254 
+[2013-09-02 22:26:54,930] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:26:54,930] [DEBUG] (MainThread) Using API index 2, remains = 147 
+[2013-09-02 22:26:55,247] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531952675651819 HTTP/1.1" 200 1227 
+[2013-09-02 22:26:55,646] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:26:55,648] [DEBUG] (MainThread) Using API index 1, remains = 147 
+[2013-09-02 22:26:55,974] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532233618568132 HTTP/1.1" 200 1115 
+[2013-09-02 22:26:56,396] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-02 22:26:56,397] [DEBUG] (MainThread) Using API index 4, remains = 128 
+[2013-09-02 22:26:56,724] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532115935085882 HTTP/1.1" 200 1075 
+[2013-09-02 22:26:57,184] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:26:57,185] [DEBUG] (MainThread) Using API index 1, remains = 146 
+[2013-09-02 22:26:57,522] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532166551737779 HTTP/1.1" 200 952 
+[2013-09-02 22:26:57,963] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:26:57,964] [DEBUG] (MainThread) Using API index 2, remains = 146 
+[2013-09-02 22:26:58,512] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531807033128932 HTTP/1.1" 200 1319 
+[2013-09-02 22:26:58,946] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 321 
+[2013-09-02 22:26:58,947] [DEBUG] (MainThread) Using API index 3, remains = 148 
+[2013-09-02 22:26:59,944] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3531768672525663 HTTP/1.1" 200 1249 
+[2013-09-02 22:27:00,540] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 321 
+[2013-09-02 22:27:00,540] [DEBUG] (MainThread) Using API index 2, remains = 145 
+[2013-09-02 22:27:00,884] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531468229934700 HTTP/1.1" 200 1186 
+[2013-09-02 22:27:01,378] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-02 22:27:01,379] [DEBUG] (MainThread) Using API index 0, remains = 146 
+[2013-09-02 22:27:01,742] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=353216651520383 HTTP/1.1" 400 110 
+[2013-09-02 22:27:01,743] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:27:02,092] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-02 22:27:02,092] [DEBUG] (MainThread) Using API index 4, remains = 127 
+[2013-09-02 22:27:02,409] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532352841961477 HTTP/1.1" 200 1088 
+[2013-09-02 22:27:04,038] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-02 22:27:04,039] [DEBUG] (MainThread) Using API index 0, remains = 145 
+[2013-09-02 22:27:04,962] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=353150852650840 HTTP/1.1" 400 110 
+[2013-09-02 22:27:04,962] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:27:05,778] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-02 22:27:05,779] [DEBUG] (MainThread) Using API index 4, remains = 126 
+[2013-09-02 22:27:06,739] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532330398651594 HTTP/1.1" 200 1072 
+[2013-09-02 22:27:26,419] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-02 22:27:26,423] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-02 22:27:26,424] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-02 22:27:26,424] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-02 22:27:26,424] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-02 22:27:26,704] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:27:27,612] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:27:27,613] [DEBUG] (MainThread) Using API index 2, remains = 144 
+[2013-09-02 22:27:27,989] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531978391363663 HTTP/1.1" 200 1059 
+[2013-09-02 22:27:28,055] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:27:28,472] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:27:28,473] [DEBUG] (MainThread) Using API index 1, remains = 145 
+[2013-09-02 22:27:28,792] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3531962709301858 HTTP/1.1" 200 1027 
+[2013-09-02 22:27:29,217] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-02 22:27:29,218] [DEBUG] (MainThread) Using API index 1, remains = 144 
+[2013-09-02 22:27:29,507] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532155806402729 HTTP/1.1" 200 1215 
+[2013-09-02 22:27:29,574] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:27:30,416] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 320 
+[2013-09-02 22:27:30,417] [DEBUG] (MainThread) Using API index 3, remains = 147 
+[2013-09-02 22:27:30,763] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3531836842550486 HTTP/1.1" 200 1185 
+[2013-09-02 22:27:31,126] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-02 22:27:31,126] [DEBUG] (MainThread) Using API index 1, remains = 143 
+[2013-09-02 22:27:31,401] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3531550571933166 HTTP/1.1" 200 1020 
+[2013-09-02 22:27:31,479] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:27:31,912] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-02 22:27:31,913] [DEBUG] (MainThread) Using API index 4, remains = 125 
+[2013-09-02 22:27:32,221] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3531158505860495 HTTP/1.1" 200 1136 
+[2013-09-02 22:27:32,592] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 321 
+[2013-09-02 22:27:32,593] [DEBUG] (MainThread) Using API index 3, remains = 146 
+[2013-09-02 22:27:32,895] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3531534726167643 HTTP/1.1" 200 1031 
+[2013-09-02 22:27:32,959] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-02 22:27:33,396] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-02 22:27:33,397] [DEBUG] (MainThread) Using API index 0, remains = 144 
+[2013-09-02 22:27:33,695] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532139088100112 HTTP/1.1" 200 1085 
+[2013-09-02 22:27:34,049] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:27:34,050] [DEBUG] (MainThread) Using API index 2, remains = 143 
+[2013-09-02 22:27:34,438] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3532183077502246 HTTP/1.1" 200 1117 
+[2013-09-02 22:27:34,846] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:27:34,847] [DEBUG] (MainThread) Using API index 2, remains = 142 
+[2013-09-02 22:27:35,157] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3532183421119383 HTTP/1.1" 200 1111 
+[2013-09-02 22:27:35,538] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 321 
+[2013-09-02 22:27:35,539] [DEBUG] (MainThread) Using API index 3, remains = 145 
+[2013-09-02 22:27:35,868] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3532205676450334 HTTP/1.1" 200 1172 
+[2013-09-02 22:27:36,278] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 319 
+[2013-09-02 22:27:36,279] [DEBUG] (MainThread) Using API index 0, remains = 143 
+[2013-09-02 22:27:36,570] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532218045063998 HTTP/1.1" 200 1137 
+[2013-09-02 22:27:36,922] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-02 22:27:36,923] [DEBUG] (MainThread) Using API index 4, remains = 124 
+[2013-09-02 22:27:37,220] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3532127465810766 HTTP/1.1" 200 1642 
+[2013-09-02 22:27:37,582] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-02 22:27:37,583] [DEBUG] (MainThread) Using API index 4, remains = 123 
+[2013-09-02 22:27:37,895] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3531965485117180 HTTP/1.1" 200 1096 
+[2013-09-02 22:27:38,427] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 321 
+[2013-09-02 22:27:38,428] [DEBUG] (MainThread) Using API index 3, remains = 144 
+[2013-09-02 22:27:38,757] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3532127263608088 HTTP/1.1" 200 1256 
+[2013-09-02 22:27:39,153] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-02 22:27:39,154] [DEBUG] (MainThread) Using API index 4, remains = 122 
+[2013-09-02 22:27:39,556] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&id=3531952675651819 HTTP/1.1" 200 1227 
+[2013-09-02 22:27:39,916] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-02 22:27:39,917] [DEBUG] (MainThread) Using API index 1, remains = 142 
+[2013-09-02 22:27:40,256] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532233618568132 HTTP/1.1" 200 1115 
+[2013-09-02 22:27:40,653] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-02 22:27:40,654] [DEBUG] (MainThread) Using API index 0, remains = 142 
+[2013-09-02 22:27:40,975] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532115935085882 HTTP/1.1" 200 1075 
+[2013-09-02 22:27:41,327] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:27:41,327] [DEBUG] (MainThread) Using API index 1, remains = 141 
+[2013-09-02 22:27:41,619] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3532166551737779 HTTP/1.1" 200 952 
+[2013-09-02 22:27:42,216] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 321 
+[2013-09-02 22:27:42,217] [DEBUG] (MainThread) Using API index 3, remains = 143 
+[2013-09-02 22:27:42,521] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&id=3531807033128932 HTTP/1.1" 200 1319 
+[2013-09-02 22:27:42,921] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-02 22:27:42,921] [DEBUG] (MainThread) Using API index 2, remains = 141 
+[2013-09-02 22:27:43,247] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&id=3531768672525663 HTTP/1.1" 200 1249 
+[2013-09-02 22:27:43,601] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-02 22:27:43,601] [DEBUG] (MainThread) Using API index 1, remains = 140 
+[2013-09-02 22:27:43,955] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=3531468229934700 HTTP/1.1" 200 1186 
+[2013-09-02 22:27:44,327] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-02 22:27:44,327] [DEBUG] (MainThread) Using API index 1, remains = 139 
+[2013-09-02 22:27:44,644] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=353216651520383 HTTP/1.1" 400 110 
+[2013-09-02 22:27:44,645] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:27:45,250] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-02 22:27:45,251] [DEBUG] (MainThread) Using API index 0, remains = 141 
+[2013-09-02 22:27:45,574] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532352841961477 HTTP/1.1" 200 1088 
+[2013-09-02 22:27:45,923] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-02 22:27:45,924] [DEBUG] (MainThread) Using API index 1, remains = 138 
+[2013-09-02 22:27:46,222] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&id=353150852650840 HTTP/1.1" 400 110 
+[2013-09-02 22:27:46,222] [WARNING] (MainThread) Exception when fetching data. Continue 
+[2013-09-02 22:27:46,567] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-02 22:27:46,568] [DEBUG] (MainThread) Using API index 0, remains = 140 
+[2013-09-02 22:27:46,882] [DEBUG] (MainThread) "GET /2/statuses/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&id=3532330398651594 HTTP/1.1" 200 1072 

@@ -4,7 +4,7 @@ import re
 import requests
 import time
 import random
-import cookie
+import credential
 import logging
 
 
@@ -16,7 +16,7 @@ Login to Sina Weibo with cookie
 
 
 
-COOKIE = cookie.cookie
+COOKIE = credential.cookie
 HEADERS = {"cookie": COOKIE}
 
 # logger setting
