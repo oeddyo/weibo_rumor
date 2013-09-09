@@ -31,7 +31,7 @@ class Sampler():
         except:
             return
 
-        if 'statues' in data:
+        if 'statuses' in data:
             for tweet in data['statuses']:
                 tweet['_id'] = tweet['id']
                 self.mongo_collection.insert(tweet)
