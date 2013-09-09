@@ -16,27 +16,26 @@ logging.basicConfig(filename = "./random_sample.log",
 
 
 
-class Sampler():
-    def __init__(self):
-        mongo = pymongo.Connection(config.mongo_host, config.mongo_port)
-        mongo_db = mongo[config.db_name]
 
-        self.mongo_collection = mongo_db.random_tweets
-        self.api = API()
+def sample_and_save():
+    # use api to sample tweets from streaming api
+    mongo = pymongo.Connection(config.mongo_host, config.mongo_port)
+    mongo_db = mongo[config.db_name]
 
-    def sample_and_save(self):
-        # use api to sample tweets from streaming api
-        try:
-            data = self.api.get_api().get("statuses/public_timeline", count = 200 )
-        except:
-            return
+    mongo_collection = mongo_db.random_tweets
+    api = API()
 
-        if 'statuses' in data:
-            for tweet in data['statuses']:
-                tweet['_id'] = tweet['id']
-                self.mongo_collection.insert(tweet)
-            time.sleep(random.randint(10, 60))
+    try:
+        data = api.get_api().get("statuses/public_timeline", count = 200 )
+    except:
+        return
 
+    if 'statuses' in data:
+        for tweet in data['statuses']:
+            tweet['_id'] = tweet['id']
+            mongo_collection.insert(tweet)
+    time.sleep(random.randint(10, 60))
+    mongo_collection.close()
 
 if __name__ == '__main__':
     print 'begin'
@@ -44,9 +43,7 @@ if __name__ == '__main__':
     redis_conn = Redis(config.redis_server)
     q = Queue(connection=redis_conn)
 
-    sampler = Sampler()
     while True:
-        print 'Submitting...'
         logging.warn("Submitting job...")
-        q.enqueue_call(func=sampler.sample_and_save(), timeout=572000)
+        q.enqueue_call(func=sample_and_save(), timeout=572000)
         time.sleep(1)
