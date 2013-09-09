@@ -768,3 +768,14 @@
 [2013-09-09 17:29:06,171] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 320 
 [2013-09-09 17:29:06,172] [DEBUG] (MainThread) Using API index 2, remains = 135 
 [2013-09-09 17:29:06,553] [DEBUG] (MainThread) "GET /2/statuses/public_timeline.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200 HTTP/1.1" 200 None 
+[2013-09-09 17:30:55,239] [WARNING] (MainThread) Begin... 
+[2013-09-09 17:30:55,270] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-09 17:30:55,274] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-09 17:30:55,274] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-09 17:30:55,275] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-09 17:30:55,275] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-09 17:30:55,275] [WARNING] (MainThread) Submitting job... 
+[2013-09-09 17:30:55,281] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-09 17:30:56,247] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-09 17:30:56,247] [DEBUG] (MainThread) Using API index 2, remains = 124 
+[2013-09-09 17:30:56,626] [DEBUG] (MainThread) "GET /2/statuses/public_timeline.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200 HTTP/1.1" 200 None 
