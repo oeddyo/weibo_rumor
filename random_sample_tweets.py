@@ -45,4 +45,4 @@ if __name__ == '__main__':
 
     while True:
         logging.debug("Submitting job...")
-        q.enqueue_call(func=sampler.sample_and_save(), args = None, timeout=572000)
+        q.enqueue_call(func=sampler.sample_and_save(), timeout=572000)
