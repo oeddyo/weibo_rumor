@@ -38,11 +38,12 @@ class Sampler():
             time.sleep(random.randint(10, 60))
 
 if __name__ == '__main__':
+    logging.warn("Begin...")
     redis_conn = Redis(config.redis_server)
     q = Queue(connection=redis_conn)
 
     sampler = Sampler()
 
     while True:
-        logging.debug("Submitting job...")
+        logging.warn("Submitting job...")
         q.enqueue_call(func=sampler.sample_and_save(), timeout=572000)
