@@ -21,5 +21,9 @@ class MongoInterface():
         pages = self.mongo_collection.find(timeout=False).sort('_id')
         return pages
 
+    def get_all_tweets(self):
+        tweets = self.mongo_collection.find()
+        return tweets
+
     def insert_into_collection(self, data):
         self.mongo_collection.insert(data)
