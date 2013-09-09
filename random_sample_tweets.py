@@ -46,6 +46,7 @@ if __name__ == '__main__':
 
     sampler = Sampler()
     while True:
+        print 'Submitting...'
         logging.warn("Submitting job...")
         q.enqueue_call(func=sampler.sample_and_save(), timeout=572000)
         time.sleep(1)
