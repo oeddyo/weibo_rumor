@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37687248-40e5-459e-b44a-03e2971e795b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download_random_tweets.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/random_sample_tweets.py" afterPath="$PROJECT_DIR$/random_sample_tweets.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rumor_report_crawler.py" afterPath="$PROJECT_DIR$/rumor_report_crawler.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/download_random_tweets.py" afterPath="$PROJECT_DIR$/download_random_tweets.py" />
     </list>
     <ignored path="weibo_rumor.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,7 +18,7 @@
     <file path="/.gitignore" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1378761995169" ignored="false" />
     <file path="/Dummy.txt" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1378310127140" ignored="false" />
     <file path="/random_sample_tweets.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1378777516388" ignored="false" />
-    <file path="/download_random_tweets.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1378777536749" ignored="false" />
+    <file path="/download_random_tweets.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1378777587034" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +70,7 @@
       <file leaf-file-name="download_random_tweets.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/download_random_tweets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="28" selection-start="376" selection-end="376" vertical-scroll-proportion="0.5381166">
+            <state line="5" column="13" selection-start="106" selection-end="106" vertical-scroll-proportion="0.16816144">
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -708,7 +705,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/download_random_tweets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="28" selection-start="376" selection-end="376" vertical-scroll-proportion="0.5381166">
+        <state line="5" column="13" selection-start="106" selection-end="106" vertical-scroll-proportion="0.16816144">
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
