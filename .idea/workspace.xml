@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37687248-40e5-459e-b44a-03e2971e795b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download_tweet_comments.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/submit_tweets_jobs.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/random_sample_tweets.py" afterPath="$PROJECT_DIR$/submit_random_sample_tweets_jobs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API.log" afterPath="$PROJECT_DIR$/API.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/download_random_tweets.py" afterPath="$PROJECT_DIR$/download_random_tweets.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/submit_tweets_jobs.py" afterPath="$PROJECT_DIR$/submit_tweet_comments_jobs.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="weibo_rumor.iws" />
@@ -132,10 +128,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="submit_tweets_jobs.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/submit_tweets_jobs.py">
+      <file leaf-file-name="submit_tweet_comments_jobs.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/submit_tweet_comments_jobs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="27" selection-start="179" selection-end="179" vertical-scroll-proportion="-0.042600896">
+            <state line="34" column="29" selection-start="897" selection-end="897" vertical-scroll-proportion="0.7309417">
               <folding>
                 <element signature="e#24#47#0" expanded="true" />
               </folding>
@@ -733,9 +729,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/submit_tweets_jobs.py">
+    <entry file="file://$PROJECT_DIR$/submit_tweet_comments_jobs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="27" selection-start="179" selection-end="179" vertical-scroll-proportion="-0.042600896">
+        <state line="34" column="29" selection-start="897" selection-end="897" vertical-scroll-proportion="0.7309417">
           <folding>
             <element signature="e#24#47#0" expanded="true" />
           </folding>
