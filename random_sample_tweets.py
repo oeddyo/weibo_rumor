@@ -25,15 +25,17 @@ def sample_and_save():
     mongo_collection = mongo_db.random_tweets
     api = API()
 
-    try:
-        data = api.get_api().get("statuses/public_timeline", count = 200 )
-    except:
-        return
+    #try:
+    data = api.get_api().get("statuses/public_timeline", count = 200 )
+    #except:
+    #    return
 
     if 'statuses' in data:
         for tweet in data['statuses']:
             tweet['_id'] = tweet['id']
             mongo_collection.insert(tweet)
+    else:
+        print 'Not in data'
     time.sleep(random.randint(10, 60))
     mongo_collection.close()
 
@@ -45,5 +47,6 @@ if __name__ == '__main__':
 
     while True:
         logging.warn("Submitting job...")
-        q.enqueue_call(func=sample_and_save, timeout=572000)
+        print 'Submitting...'
+        q.enqueue_call(func=sample_and_save, args=None, timeout=572000)
         time.sleep(1)
