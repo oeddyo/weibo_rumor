@@ -5,6 +5,7 @@ import time
 from api_warpper import API
 import config
 
+
 def sample_and_save():
     # use api to sample tweets from streaming api
     mongo = pymongo.Connection(config.mongo_host, config.mongo_port)

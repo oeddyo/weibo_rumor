@@ -9,7 +9,7 @@ import logging
 import time
 from download_random_tweets import sample_and_save
 
-logging.basicConfig(filename = "./random_sample.log",
+logging.basicConfig(filename = "./log/random_sample.log",
                     level=logging.DEBUG,format='[%(asctime)s] [%(levelname)s] (%(threadName)-10s) %(message)s ')
 
 
