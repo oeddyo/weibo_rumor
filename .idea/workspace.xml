@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37687248-40e5-459e-b44a-03e2971e795b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/submit_tweet_comments_jobs.py" afterPath="$PROJECT_DIR$/submit_tweet_comments_jobs.py" />
-    </list>
+    <list default="true" id="37687248-40e5-459e-b44a-03e2971e795b" name="Default" comment="" />
     <ignored path="weibo_rumor.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/rumor_report_crawler.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1378000503838" ignored="false" />
