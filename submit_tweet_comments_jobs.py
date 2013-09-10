@@ -33,5 +33,5 @@ if __name__ == '__main__':
         tweet_id = tweet['id']
         logging.warn("Submitting job...")
         print 'Submitting...'
-        q.enqueue_call(func=download_tweet_comments_and_save, args = tweet_id, timeout=572000)
+        q.enqueue_call(func=download_tweet_comments_and_save, args = (tweet_id,), timeout=572000)
         time.sleep(1)

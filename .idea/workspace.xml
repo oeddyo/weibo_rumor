@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37687248-40e5-459e-b44a-03e2971e795b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/submit_tweets_jobs.py" afterPath="$PROJECT_DIR$/submit_tweet_comments_jobs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/submit_tweet_comments_jobs.py" afterPath="$PROJECT_DIR$/submit_tweet_comments_jobs.py" />
     </list>
     <ignored path="weibo_rumor.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,7 +20,7 @@
     <file path="/random_sample_tweets.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1378780801657" ignored="false" />
     <file path="/download_random_tweets.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1378780372593" ignored="false" />
     <file path="/download_tweet_comments.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1378779631436" ignored="false" />
-    <file path="/submit_tweets_jobs.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1378780932009" ignored="false" />
+    <file path="/submit_tweets_jobs.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1378781777134" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +130,7 @@
       <file leaf-file-name="submit_tweet_comments_jobs.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/submit_tweet_comments_jobs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="29" selection-start="897" selection-end="897" vertical-scroll-proportion="0.7309417">
+            <state line="35" column="80" selection-start="978" selection-end="978" vertical-scroll-proportion="0.764574">
               <folding>
                 <element signature="e#24#47#0" expanded="true" />
               </folding>
@@ -157,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/cookie.py" />
         <option value="$PROJECT_DIR$/submit_jobs.py" />
         <option value="$PROJECT_DIR$/download_report_page.py" />
@@ -173,6 +171,7 @@
         <option value="$PROJECT_DIR$/download_tweet_comments.py" />
         <option value="$PROJECT_DIR$/submit_random_sample_tweets_jobs.py" />
         <option value="$PROJECT_DIR$/submit_tweets_jobs.py" />
+        <option value="$PROJECT_DIR$/submit_tweet_comments_jobs.py" />
       </list>
     </option>
   </component>
@@ -674,13 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/submit_jobs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rumor_report_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="62" column="12" selection-start="1643" selection-end="1643" vertical-scroll-proportion="0.0">
@@ -729,9 +721,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/submit_jobs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/submit_tweet_comments_jobs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="29" selection-start="897" selection-end="897" vertical-scroll-proportion="0.7309417">
+        <state line="35" column="80" selection-start="978" selection-end="978" vertical-scroll-proportion="0.764574">
           <folding>
             <element signature="e#24#47#0" expanded="true" />
           </folding>
