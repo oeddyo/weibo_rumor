@@ -59,7 +59,8 @@ def iterate_pages():
         for ele in soup.findAll(href=re.compile("show\?rid")):
             _url = each_page_base + ele['href']
             output_file.write(_url + '\n')
-        time.sleep(random.randint(1,5))
+        time.\
+            sleep(random.randint(1,5))
         logger.warn("Sleeping...")
 
 

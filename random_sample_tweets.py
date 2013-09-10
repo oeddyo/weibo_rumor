@@ -4,40 +4,15 @@ from rq import Queue
 __author__ = 'eddiexie'
 
 
-import pymongo
 import config
 import logging
 import time
-import random
-from api_warpper import API
+from download_random_tweets import sample_and_save
 
 logging.basicConfig(filename = "./random_sample.log",
                     level=logging.DEBUG,format='[%(asctime)s] [%(levelname)s] (%(threadName)-10s) %(message)s ')
 
 
-
-
-def sample_and_save():
-    # use api to sample tweets from streaming api
-    mongo = pymongo.Connection(config.mongo_host, config.mongo_port)
-    mongo_db = mongo[config.db_name]
-
-    mongo_collection = mongo_db.random_tweets
-    api = API()
-
-    #try:
-    data = api.get_api().get("statuses/public_timeline", count = 200 )
-    #except:
-    #    return
-
-    if 'statuses' in data:
-        for tweet in data['statuses']:
-            tweet['_id'] = tweet['id']
-            mongo_collection.insert(tweet)
-    else:
-        print 'Not in data'
-    time.sleep(random.randint(10, 60))
-    mongo_collection.close()
 
 if __name__ == '__main__':
     print 'begin'
