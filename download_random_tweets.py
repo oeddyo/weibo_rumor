@@ -25,4 +25,4 @@ def sample_and_save():
     else:
         print 'Not in data'
     time.sleep(random.randint(10, 60))
-    mongo_collection.close()
+    mongo_db.close()
