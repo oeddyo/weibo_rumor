@@ -13,10 +13,10 @@ def sample_and_save():
     mongo_collection = mongo_db.random_tweets
     api = API()
 
-    #try:
-    data = api.get_api().get("statuses/public_timeline", count = 200 )
-    #except:
-    #    return
+    try:
+        data = api.get_api().get("statuses/public_timeline", count = 200 )
+    except:
+        return
 
     if 'statuses' in data:
         for tweet in data['statuses']:
@@ -25,4 +25,3 @@ def sample_and_save():
     else:
         print 'Not in data'
     time.sleep(random.randint(10, 60))
-    mongo_db.close()

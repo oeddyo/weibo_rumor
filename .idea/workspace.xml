@@ -70,7 +70,7 @@
       <file leaf-file-name="download_random_tweets.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/download_random_tweets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="687" selection-end="687" vertical-scroll-proportion="0.89910316">
+            <state line="21" column="17" selection-start="507" selection-end="507" vertical-scroll-proportion="0.69730943">
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -705,7 +705,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/download_random_tweets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="687" selection-end="687" vertical-scroll-proportion="0.89910316">
+        <state line="21" column="17" selection-start="507" selection-end="507" vertical-scroll-proportion="0.69730943">
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
