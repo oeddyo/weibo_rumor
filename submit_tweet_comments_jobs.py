@@ -31,6 +31,7 @@ if __name__ == '__main__':
 
     for tweet in mongo_collection.find():
         tweet_id = tweet['id']
+        print tweet_id
         logging.warn("Submitting job...")
         print 'Submitting...'
         q.enqueue_call(func=download_tweet_comments_and_save, args = (tweet_id,), timeout=572000)

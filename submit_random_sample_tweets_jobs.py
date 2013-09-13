@@ -24,4 +24,4 @@ if __name__ == '__main__':
         logging.warn("Submitting job...")
         print 'Submitting...'
         q.enqueue_call(func=sample_and_save, args=None, timeout=572000)
-        time.sleep(1)
+        time.sleep(5)
