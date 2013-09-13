@@ -52873,3 +52873,326 @@
 [2013-09-12 23:20:46,713] [WARNING] (MainThread) Submitting job... 
 [2013-09-12 23:20:51,719] [WARNING] (MainThread) Submitting job... 
 [2013-09-12 23:20:56,725] [WARNING] (MainThread) Submitting job... 
+[2013-09-13 13:20:25,684] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:20:25,691] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:20:25,692] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:20:25,692] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:20:25,692] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:20:25,701] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:20:26,924] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 320 
+[2013-09-13 13:20:26,925] [DEBUG] (MainThread) Using API index 4, remains = 150 
+[2013-09-13 13:20:27,236] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&count=200&id=3531965485117180 HTTP/1.1" 200 1678 
+[2013-09-13 13:20:52,215] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:20:52,219] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:20:52,220] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:20:52,220] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:20:52,220] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:20:52,226] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:20:53,506] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 320 
+[2013-09-13 13:20:53,507] [DEBUG] (MainThread) Using API index 0, remains = 150 
+[2013-09-13 13:20:53,803] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&id=3531965485117180 HTTP/1.1" 200 1678 
+[2013-09-13 13:23:42,292] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:23:42,297] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:23:42,297] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:23:42,297] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:23:42,297] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:23:42,304] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:23:43,312] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 320 
+[2013-09-13 13:23:43,312] [DEBUG] (MainThread) Using API index 1, remains = 150 
+[2013-09-13 13:23:44,144] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:23:47,087] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:23:48,532] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 322 
+[2013-09-13 13:23:48,532] [DEBUG] (MainThread) Using API index 4, remains = 149 
+[2013-09-13 13:23:48,945] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&count=200&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:24:14,149] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:24:14,153] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:24:14,154] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:24:14,154] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:24:14,154] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:24:14,160] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:24:15,055] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 320 
+[2013-09-13 13:24:15,056] [DEBUG] (MainThread) Using API index 3, remains = 150 
+[2013-09-13 13:24:15,567] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:24:16,790] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:24:18,387] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 320 
+[2013-09-13 13:24:18,388] [DEBUG] (MainThread) Using API index 2, remains = 150 
+[2013-09-13 13:24:18,845] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:29:38,392] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:29:38,397] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:29:38,397] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:29:38,397] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:29:38,397] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:29:38,404] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:29:38,877] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-13 13:29:38,878] [DEBUG] (MainThread) Using API index 1, remains = 149 
+[2013-09-13 13:29:39,337] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&id=3616681802784085&page=1 HTTP/1.1" 200 None 
+[2013-09-13 13:29:40,333] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:29:40,777] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 320 
+[2013-09-13 13:29:40,777] [DEBUG] (MainThread) Using API index 3, remains = 149 
+[2013-09-13 13:29:41,582] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&id=3616681802784085&page=2 HTTP/1.1" 200 None 
+[2013-09-13 13:29:43,693] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:29:45,234] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-13 13:29:45,235] [DEBUG] (MainThread) Using API index 0, remains = 150 
+[2013-09-13 13:29:46,043] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&id=3616681802784085&page=3 HTTP/1.1" 200 None 
+[2013-09-13 13:32:12,696] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:32:12,701] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:32:12,701] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:32:12,701] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:32:12,701] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:32:12,709] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:32:14,504] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-13 13:32:14,505] [DEBUG] (MainThread) Using API index 4, remains = 148 
+[2013-09-13 13:32:14,951] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&count=200&cursor=0&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:32:15,749] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:32:16,459] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-13 13:32:16,460] [DEBUG] (MainThread) Using API index 0, remains = 149 
+[2013-09-13 13:32:17,031] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&cursor=0&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:32:19,188] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-13 13:32:19,189] [DEBUG] (MainThread) Using API index 0, remains = 148 
+[2013-09-13 13:32:20,205] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&cursor=0&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:32:22,691] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:32:23,549] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-13 13:32:23,549] [DEBUG] (MainThread) Using API index 1, remains = 148 
+[2013-09-13 13:32:31,329] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:32:31,333] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:32:31,333] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:32:31,334] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:32:31,334] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:32:31,340] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:32:33,505] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 319 
+[2013-09-13 13:32:33,506] [DEBUG] (MainThread) Using API index 1, remains = 147 
+[2013-09-13 13:32:35,228] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&cursor=0&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:32:37,104] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:32:38,401] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-13 13:32:38,402] [DEBUG] (MainThread) Using API index 0, remains = 147 
+[2013-09-13 13:32:38,806] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&cursor=3621005375671517&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:32:40,922] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:32:41,566] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 321 
+[2013-09-13 13:32:41,567] [DEBUG] (MainThread) Using API index 2, remains = 149 
+[2013-09-13 13:32:41,999] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200&cursor=3621005375671517&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:32:43,818] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:32:44,584] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 321 
+[2013-09-13 13:32:44,585] [DEBUG] (MainThread) Using API index 4, remains = 147 
+[2013-09-13 13:32:45,300] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&count=200&cursor=3621005375671517&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:32:47,281] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-13 13:32:47,281] [DEBUG] (MainThread) Using API index 1, remains = 146 
+[2013-09-13 13:32:48,381] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&cursor=3621005375671517&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:33:51,245] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:33:51,250] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:33:51,250] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:33:51,250] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:33:51,250] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:33:51,257] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:33:52,004] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 320 
+[2013-09-13 13:33:52,005] [DEBUG] (MainThread) Using API index 2, remains = 148 
+[2013-09-13 13:33:52,469] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200&cursor=0&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:33:54,940] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:33:59,460] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 320 
+[2013-09-13 13:33:59,461] [DEBUG] (MainThread) Using API index 1, remains = 145 
+[2013-09-13 13:34:00,047] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&cursor=3621005375671517&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:34:03,048] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:34:03,867] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 320 
+[2013-09-13 13:34:03,868] [DEBUG] (MainThread) Using API index 4, remains = 146 
+[2013-09-13 13:34:46,382] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:34:46,386] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:34:46,386] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:34:46,387] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:34:46,387] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:34:46,393] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:34:47,016] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-13 13:34:47,017] [DEBUG] (MainThread) Using API index 1, remains = 144 
+[2013-09-13 13:34:47,636] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&cursor=0&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:34:52,133] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:34:54,010] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 321 
+[2013-09-13 13:34:54,010] [DEBUG] (MainThread) Using API index 3, remains = 148 
+[2013-09-13 13:34:55,710] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&cursor=3621005375671517&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:34:57,328] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:34:58,142] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 321 
+[2013-09-13 13:34:58,143] [DEBUG] (MainThread) Using API index 2, remains = 147 
+[2013-09-13 13:41:03,433] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:41:03,437] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:41:03,437] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:41:03,437] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:41:03,438] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:41:03,444] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:41:04,999] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-13 13:41:05,000] [DEBUG] (MainThread) Using API index 0, remains = 146 
+[2013-09-13 13:41:06,001] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&cursor=-1&id=3616681802784085 HTTP/1.1" 200 51507 
+[2013-09-13 13:41:10,432] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-13 13:41:10,433] [DEBUG] (MainThread) Using API index 0, remains = 145 
+[2013-09-13 13:41:10,878] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&cursor=3621005375671517&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:41:12,353] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:41:13,046] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-13 13:41:13,047] [DEBUG] (MainThread) Using API index 1, remains = 143 
+[2013-09-13 13:41:13,458] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&cursor=3621005375671517&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:41:14,324] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:41:15,144] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 320 
+[2013-09-13 13:41:15,145] [DEBUG] (MainThread) Using API index 4, remains = 145 
+[2013-09-13 13:41:15,556] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&count=200&cursor=3621005375671517&id=3616681802784085 HTTP/1.1" 200 None 
+[2013-09-13 13:41:16,298] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:41:17,191] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 321 
+[2013-09-13 13:41:17,192] [DEBUG] (MainThread) Using API index 3, remains = 147 
+[2013-09-13 13:41:18,014] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&cursor=3621005375671517&id=3616681802784085 HTTP/1.1" 200 51896 
+[2013-09-13 13:50:18,415] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:50:18,419] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:50:18,420] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:50:18,420] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:50:18,420] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:50:18,426] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:50:19,314] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 320 
+[2013-09-13 13:50:19,315] [DEBUG] (MainThread) Using API index 4, remains = 144 
+[2013-09-13 13:50:20,074] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&count=200&cursor=-1&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:50:20,859] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:50:22,335] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 321 
+[2013-09-13 13:50:22,336] [DEBUG] (MainThread) Using API index 3, remains = 146 
+[2013-09-13 13:50:22,805] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&cursor=3617091225628804&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:50:24,638] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:56:31,144] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:56:31,149] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:56:31,149] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:56:31,149] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:56:31,149] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:56:31,156] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:56:31,653] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 320 
+[2013-09-13 13:56:31,654] [DEBUG] (MainThread) Using API index 1, remains = 142 
+[2013-09-13 13:56:32,380] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&cursor=-1&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:56:33,652] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-13 13:56:33,652] [DEBUG] (MainThread) Using API index 1, remains = 141 
+[2013-09-13 13:56:34,087] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&cursor=3617091225628804&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:56:34,967] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:56:35,408] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-13 13:56:35,408] [DEBUG] (MainThread) Using API index 0, remains = 150 
+[2013-09-13 13:56:35,817] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&cursor=3617091225628804&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:56:36,660] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:56:37,100] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 321 
+[2013-09-13 13:56:37,101] [DEBUG] (MainThread) Using API index 3, remains = 145 
+[2013-09-13 13:56:37,491] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&cursor=3617091225628804&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:56:39,660] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 319 
+[2013-09-13 13:56:39,661] [DEBUG] (MainThread) Using API index 3, remains = 144 
+[2013-09-13 13:56:40,093] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&cursor=3617091225628804&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:56:41,399] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 320 
+[2013-09-13 13:56:41,400] [DEBUG] (MainThread) Using API index 3, remains = 143 
+[2013-09-13 13:56:41,854] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&cursor=3617091225628804&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:56:43,210] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:56:43,684] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 320 
+[2013-09-13 13:56:43,685] [DEBUG] (MainThread) Using API index 4, remains = 143 
+[2013-09-13 13:57:03,696] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:57:03,701] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:57:03,701] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:57:03,701] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:57:03,701] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:57:03,708] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:57:04,125] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 320 
+[2013-09-13 13:57:04,126] [DEBUG] (MainThread) Using API index 3, remains = 142 
+[2013-09-13 13:57:04,598] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&cursor=-1&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:57:55,397] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:57:55,401] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:57:55,401] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:57:55,401] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:57:55,402] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:57:55,408] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:57:56,182] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 320 
+[2013-09-13 13:57:56,183] [DEBUG] (MainThread) Using API index 3, remains = 141 
+[2013-09-13 13:57:56,720] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&cursor=-1&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:58:12,933] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:58:12,937] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:58:12,937] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:58:12,938] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:58:12,938] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:58:12,944] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:58:14,230] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 318 
+[2013-09-13 13:58:14,231] [DEBUG] (MainThread) Using API index 2, remains = 146 
+[2013-09-13 13:58:14,963] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200&cursor=-1&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:58:29,730] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 13:58:29,734] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 13:58:29,735] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 13:58:29,735] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 13:58:29,735] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 13:58:29,744] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:58:30,522] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 320 
+[2013-09-13 13:58:30,523] [DEBUG] (MainThread) Using API index 2, remains = 145 
+[2013-09-13 13:58:30,938] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200&cursor=-1&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:58:32,727] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:58:33,277] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-13 13:58:33,277] [DEBUG] (MainThread) Using API index 0, remains = 149 
+[2013-09-13 13:58:33,894] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&cursor=3617091225628804&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:58:35,944] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 320 
+[2013-09-13 13:58:35,945] [DEBUG] (MainThread) Using API index 2, remains = 144 
+[2013-09-13 13:58:36,357] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200&cursor=3617091225628804&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:58:38,053] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 13:58:38,506] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-13 13:58:38,507] [DEBUG] (MainThread) Using API index 1, remains = 140 
+[2013-09-13 13:58:39,012] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&cursor=3617091225628804&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 13:58:41,058] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 321 
+[2013-09-13 13:58:41,058] [DEBUG] (MainThread) Using API index 0, remains = 148 
+[2013-09-13 13:58:41,468] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&cursor=3617091225628804&id=3616370703252156 HTTP/1.1" 200 None 
+[2013-09-13 14:03:19,613] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 14:03:19,617] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 14:03:19,618] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 14:03:19,618] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 14:03:19,618] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 14:03:19,624] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 14:03:20,412] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 319 
+[2013-09-13 14:03:20,413] [DEBUG] (MainThread) Using API index 3, remains = 150 
+[2013-09-13 14:03:20,909] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&id=3616370703252156&page=1 HTTP/1.1" 200 None 
+[2013-09-13 14:03:23,677] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-13 14:03:23,678] [DEBUG] (MainThread) Using API index 3, remains = 149 
+[2013-09-13 14:03:24,810] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&id=3616370703252156&page=2 HTTP/1.1" 200 None 
+[2013-09-13 14:03:48,018] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 14:03:48,024] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 14:03:48,024] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 14:03:48,024] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 14:03:48,025] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 14:03:48,031] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 14:03:48,874] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB HTTP/1.1" 200 319 
+[2013-09-13 14:03:48,874] [DEBUG] (MainThread) Using API index 4, remains = 150 
+[2013-09-13 14:03:49,386] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2Ct9BkFD71b25c38b4EuktSB&count=200&id=3616370703252156&page=1 HTTP/1.1" 200 None 
+[2013-09-13 14:03:51,130] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 14:03:51,571] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 319 
+[2013-09-13 14:03:51,572] [DEBUG] (MainThread) Using API index 2, remains = 150 
+[2013-09-13 14:03:52,048] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200&id=3616370703252156&page=2 HTTP/1.1" 200 None 
+[2013-09-13 14:03:54,996] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-13 14:03:54,996] [DEBUG] (MainThread) Using API index 2, remains = 149 
+[2013-09-13 14:03:55,965] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200&id=3616370703252156&page=3 HTTP/1.1" 200 None 
+[2013-09-13 14:04:15,935] [DEBUG] (MainThread) Connecting to api number 0 
+[2013-09-13 14:04:15,940] [DEBUG] (MainThread) Connecting to api number 1 
+[2013-09-13 14:04:15,940] [DEBUG] (MainThread) Connecting to api number 2 
+[2013-09-13 14:04:15,940] [DEBUG] (MainThread) Connecting to api number 3 
+[2013-09-13 14:04:15,940] [DEBUG] (MainThread) Connecting to api number 4 
+[2013-09-13 14:04:15,947] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 14:04:16,612] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-13 14:04:16,612] [DEBUG] (MainThread) Using API index 2, remains = 148 
+[2013-09-13 14:04:17,136] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200&id=3616370703252156&page=1 HTTP/1.1" 200 None 
+[2013-09-13 14:04:17,934] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 14:04:18,384] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 319 
+[2013-09-13 14:04:18,384] [DEBUG] (MainThread) Using API index 1, remains = 150 
+[2013-09-13 14:04:18,857] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&id=3616370703252156&page=2 HTTP/1.1" 200 None 
+[2013-09-13 14:04:20,094] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-13 14:04:20,095] [DEBUG] (MainThread) Using API index 1, remains = 149 
+[2013-09-13 14:04:20,577] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&id=3616370703252156&page=3 HTTP/1.1" 200 None 
+[2013-09-13 14:04:21,696] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 321 
+[2013-09-13 14:04:21,697] [DEBUG] (MainThread) Using API index 1, remains = 148 
+[2013-09-13 14:04:22,554] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&id=3616370703252156&page=4 HTTP/1.1" 200 None 
+[2013-09-13 14:04:23,408] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 14:04:23,851] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 322 
+[2013-09-13 14:04:23,852] [DEBUG] (MainThread) Using API index 3, remains = 148 
+[2013-09-13 14:04:24,706] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&id=3616370703252156&page=5 HTTP/1.1" 200 None 
+[2013-09-13 14:04:26,832] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE HTTP/1.1" 200 320 
+[2013-09-13 14:04:26,833] [DEBUG] (MainThread) Using API index 3, remains = 147 
+[2013-09-13 14:04:27,617] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CI8UJRD3d5c59072dkgU3KE&count=200&id=3616370703252156&page=6 HTTP/1.1" 200 None 
+[2013-09-13 14:04:28,809] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-13 14:04:28,810] [DEBUG] (MainThread) Using API index 2, remains = 147 
+[2013-09-13 14:04:29,834] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200&id=3616370703252156&page=7 HTTP/1.1" 200 None 
+[2013-09-13 14:04:31,068] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE HTTP/1.1" 200 322 
+[2013-09-13 14:04:31,069] [DEBUG] (MainThread) Using API index 2, remains = 146 
+[2013-09-13 14:04:31,835] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CJyxPGE26a525ff22xTfrTE&count=200&id=3616370703252156&page=8 HTTP/1.1" 200 None 
+[2013-09-13 14:04:32,756] [INFO] (MainThread) Starting new HTTPS connection (1): api.weibo.com 
+[2013-09-13 14:04:33,217] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 319 
+[2013-09-13 14:04:33,218] [DEBUG] (MainThread) Using API index 0, remains = 150 
+[2013-09-13 14:04:34,115] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&id=3616370703252156&page=9 HTTP/1.1" 200 None 
+[2013-09-13 14:04:35,301] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD HTTP/1.1" 200 322 
+[2013-09-13 14:04:35,302] [DEBUG] (MainThread) Using API index 0, remains = 149 
+[2013-09-13 14:04:36,183] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2ClGMJuC02cbc51fa3SuLgKD&count=200&id=3616370703252156&page=10 HTTP/1.1" 200 None 
+[2013-09-13 14:04:37,917] [DEBUG] (MainThread) "GET /2/account/rate_limit_status.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB HTTP/1.1" 200 322 
+[2013-09-13 14:04:37,917] [DEBUG] (MainThread) Using API index 1, remains = 147 
+[2013-09-13 14:04:38,216] [DEBUG] (MainThread) "GET /2/comments/show.json?access_token=2.00XgYj2CRdFuhD36c01880b59zDpDB&count=200&id=3616370703252156&page=11 HTTP/1.1" 200 30 

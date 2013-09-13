@@ -2,6 +2,7 @@ __author__ = 'eddiexie'
 import pymongo
 from api_warpper import API
 import config
+import pprint
 
 def download_tweet_comments_and_save(tweet_id):
     mongo = pymongo.Connection(config.mongo_host, config.mongo_port)
@@ -9,21 +10,18 @@ def download_tweet_comments_and_save(tweet_id):
 
     mongo_collection = mongo_db.comments
     api = API()
-    cursor = 0
-
+    my_cursor = -1L
+    my_page = 1
     while True:
         try:
-            data = api.get_api().get("comments/show", id = tweet_id, count = 200)
-            next_cursor = data['next_cursor']
+            print 'at my_cursor %d'%(my_cursor)
+            data = api.get_api().get("comments/show", id=tweet_id, count=200, page=my_page)
+            my_page += 1
             for comment in data['comments']:
                 mongo_collection.insert(comment)
-            if cursor == next_cursor:
-                break
-            else:
-                cursor = next_cursor
-        except:
+        except :
             return
 
 if __name__ == "__main__":
-    download_tweet_comments_and_save(3531965485117180L)
+    download_tweet_comments_and_save(3616370703252156L)
     pass
