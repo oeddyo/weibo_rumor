@@ -25,8 +25,5 @@ def download_tweet_comments_and_save(tweet_id):
             return
 
 if __name__ == "__main__":
-    #download_tweet_comments_and_save(3531965485117180L)
-
-
-
+    download_tweet_comments_and_save(3531965485117180L)
     pass
