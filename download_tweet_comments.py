@@ -2,7 +2,10 @@ __author__ = 'eddiexie'
 import pymongo
 from api_warpper import API
 import config
-import pprint
+import logging
+logging.basicConfig(filename = "./log/download_comments.log",
+                    level=logging.DEBUG,format='[%(asctime)s] [%(levelname)s] (%(threadName)-10s) %(message)s ')
+
 
 def download_tweet_comments_and_save(tweet_id):
     mongo = pymongo.Connection(config.mongo_host, config.mongo_port)
@@ -10,11 +13,10 @@ def download_tweet_comments_and_save(tweet_id):
 
     mongo_collection = mongo_db.comments
     api = API()
-    my_cursor = -1L
     my_page = 1
     while True:
         try:
-            print 'at my_cursor %d'%(my_cursor)
+            logging.warn('at my_cursor %d'%(my_page) )
             data = api.get_api().get("comments/show", id=tweet_id, count=200, page=my_page)
             my_page += 1
             for comment in data['comments']:

@@ -27,8 +27,8 @@ class API():
         while True:
             remaining_hits = self.clients[index].get("account/rate_limit_status")['remaining_user_hits']
             if remaining_hits <= 10:
-                logging.debug("Remain API = %d for index %d. Wait..."%(remaining_hits, index))
+                logging.warn("Remain API = %d for index %d. Wait..."%(remaining_hits, index))
                 time.sleep(5)
                 continue
-            logging.debug("Using API index %d, remains = %d"%(index, remaining_hits))
+            logging.warn("Using API index %d, remains = %d"%(index, remaining_hits))
             return self.clients[index]
