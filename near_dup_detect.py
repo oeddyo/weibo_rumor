@@ -2,6 +2,8 @@ __author__ = 'eddiexie'
 
 
 def ratio_similar(doc_A, doc_B):
+    doc_A = set(doc_A)
+    doc_B = set(doc_B)
     n_sim = 0.0
     for word in doc_A:
         if word in doc_B:
@@ -13,20 +15,24 @@ def ratio_similar(doc_A, doc_B):
 def clean_dup(docs, ratio):
     cleaned_docs = []
     mark_dup = [0]*len(docs)
-    docs = [set(doc) for doc in docs]
-
+    #print len(docs)
+    #docs = [set(doc) for doc in docs]
+    cluster_number = 0
     for i in range(len(docs)):
-        if i % 100 == 0:
-            print i
-        if mark_dup[i] == 1:continue
-        for j in range(i+1, len(docs)):
-            if ratio_similar(docs[i], docs[j]) >= ratio:
-                mark_dup[j] = 1
+        #if i % 100 == 0:
+        #    print i
+        if mark_dup[i] != 0:continue
+
+        for j in range(i, len(docs)):
+            if ratio_similar(docs[i]['seg_text'], docs[j]['seg_text']) >= ratio:
+                mark_dup[j] = cluster_number
+        cluster_number += 1
+
 
     for i in range(len(docs)):
         if mark_dup[i] == 0:
             cleaned_docs.append(docs[i])
-    return cleaned_docs
+    return mark_dup
 
 
 def test_clean_dup():
@@ -36,4 +42,4 @@ def test_clean_dup():
 
 
 
-test_clean_dup()
+#test_clean_dup()
