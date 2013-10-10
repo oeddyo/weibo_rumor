@@ -72,4 +72,4 @@ def download_reporter(user_id):
     cursor.insert(data)
 
 
-download_reporter(1856687980L)
+#download_reporter(1856687980L)

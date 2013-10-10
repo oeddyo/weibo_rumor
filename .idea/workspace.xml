@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="37687248-40e5-459e-b44a-03e2971e795b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iir" afterPath="$PROJECT_DIR$/iir" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API.log" afterPath="$PROJECT_DIR$/API.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api_warpper.py" afterPath="$PROJECT_DIR$/api_warpper.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parse_reporters.py" afterPath="$PROJECT_DIR$/parse_reporters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="weibo_rumor.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,7 +31,7 @@
     <file path="/submit_tweet_repost_job.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1380226338426" ignored="false" />
     <file path="/start_script.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1380843220049" ignored="false" />
     <file path="/LIWC.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1380916908347" ignored="false" />
-    <file path="/parse_reporters.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1381366342434" ignored="false" />
+    <file path="/parse_reporters.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1381366719142" ignored="false" />
     <file path="/submit_download_reporters.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1381365289087" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +120,7 @@
       <file leaf-file-name="parse_reporters.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parse_reporters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="0" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.7375">
+            <state line="74" column="1" selection-start="2234" selection-end="2234" vertical-scroll-proportion="0.775">
               <folding />
             </state>
           </provider>
@@ -786,7 +785,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/parse_reporters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="0" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.7375">
+        <state line="74" column="1" selection-start="2234" selection-end="2234" vertical-scroll-proportion="0.775">
           <folding />
         </state>
       </provider>
