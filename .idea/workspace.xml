@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="37687248-40e5-459e-b44a-03e2971e795b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iir" afterPath="$PROJECT_DIR$/iir" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API.log" afterPath="$PROJECT_DIR$/API.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api_warpper.py" afterPath="$PROJECT_DIR$/api_warpper.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parse_reporters.py" afterPath="$PROJECT_DIR$/parse_reporters.py" />
     </list>
     <ignored path="weibo_rumor.iws" />
@@ -30,7 +32,7 @@
     <file path="/submit_tweet_repost_job.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1380226338426" ignored="false" />
     <file path="/start_script.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1380843220049" ignored="false" />
     <file path="/LIWC.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1380916908347" ignored="false" />
-    <file path="/parse_reporters.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1381365959892" ignored="false" />
+    <file path="/parse_reporters.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1381366342434" ignored="false" />
     <file path="/submit_download_reporters.py" changelist="37687248-40e5-459e-b44a-03e2971e795b" time="1381365289087" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +121,16 @@
       <file leaf-file-name="parse_reporters.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parse_reporters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.3">
+            <state line="73" column="0" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.7375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api_warpper.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api_warpper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="34" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,15 +140,6 @@
         <entry file="file://$PROJECT_DIR$/submit_tweet_repost_job.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="15" column="0" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="near_dup_detect.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/near_dup_detect.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="22" selection-start="428" selection-end="428" vertical-scroll-proportion="-4.8461537">
               <folding />
             </state>
           </provider>
@@ -164,7 +166,6 @@
         <option value="$PROJECT_DIR$/submit_tweets_jobs.py" />
         <option value="$PROJECT_DIR$/submit_tweet_comments_jobs.py" />
         <option value="$PROJECT_DIR$/download_tweet_comments.py" />
-        <option value="$PROJECT_DIR$/api_warpper.py" />
         <option value="$PROJECT_DIR$/near_dup_detecti.py" />
         <option value="$PROJECT_DIR$/analysis/province_mapping.py" />
         <option value="$PROJECT_DIR$/download_retweet.py" />
@@ -176,6 +177,7 @@
         <option value="$PROJECT_DIR$/near_dup_detect.py" />
         <option value="$PROJECT_DIR$/submit_crawl_report_page_jobs.py" />
         <option value="$PROJECT_DIR$/submit_download_reporters.py" />
+        <option value="$PROJECT_DIR$/api_warpper.py" />
         <option value="$PROJECT_DIR$/parse_reporters.py" />
       </list>
     </option>
@@ -340,7 +342,7 @@
       <recent name="$PROJECT_DIR$/analysis" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.submit_download_reporters">
+  <component name="RunManager" selected="Python.parse_reporters">
     <configuration default="false" name="near_dup_detect" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -547,8 +549,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.submit_download_reporters" />
-        <item index="1" class="java.lang.String" itemvalue="Python.parse_reporters" />
+        <item index="0" class="java.lang.String" itemvalue="Python.parse_reporters" />
+        <item index="1" class="java.lang.String" itemvalue="Python.submit_download_reporters" />
         <item index="2" class="java.lang.String" itemvalue="Python.LIWC" />
         <item index="3" class="java.lang.String" itemvalue="Python.near_dup_detect" />
         <item index="4" class="java.lang.String" itemvalue="Python.spreader_map_data" />
@@ -667,15 +669,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/analysis/spreader_map_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="0" selection-start="2009" selection-end="2009" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#140#149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/analysis/textmind.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -777,6 +770,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/api_warpper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="34" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/submit_download_reporters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
@@ -786,7 +786,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/parse_reporters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.3">
+        <state line="73" column="0" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.7375">
           <folding />
         </state>
       </provider>

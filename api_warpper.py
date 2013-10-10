@@ -26,7 +26,7 @@ class API():
         index = random.randint(0, len(self.clients) - 1)
         while True:
             remaining_hits = self.clients[index].get("account/rate_limit_status")['remaining_user_hits']
-            if remaining_hits <= 10:
+            if remaining_hits <= 5:
                 logging.warn("Remain API = %d for index %d. Wait..."%(remaining_hits, index))
                 time.sleep(5)
                 continue

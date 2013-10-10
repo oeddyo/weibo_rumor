@@ -68,10 +68,8 @@ def download_reporter(user_id):
     mongo_interface_insert_data = utils.MongoInterface('rumor')
     cursor = mongo_interface_insert_data.connect_to_mongo('reporters')
     api = API()
-    try:
-        data = api.get_api().get("users/show", id=user_id)
-        cursor.insert(data)
-    except:
-        pass
+    data = api.get_api().get("users/show", uid=user_id)
+    cursor.insert(data)
 
-#parse_reporters()
+
+download_reporter(1856687980L)
