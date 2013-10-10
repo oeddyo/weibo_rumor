@@ -6,7 +6,6 @@ __author__ = 'eddiexie'
 
 from BeautifulSoup import BeautifulSoup
 from api_warpper import API
-from collections import Counter
 import utils
 import re
 
@@ -50,7 +49,7 @@ def parse_reporters():
     mongo_interface_insert_data = utils.MongoInterface('rumor')
     cursor = mongo_interface_insert_data.connect_to_mongo('reporters')
 
-    counter = Counter()
+    counter = {}
     for page_index, page in  enumerate(mongo_interface_read_pages.get_all_pages()):
         logging.debug('Working on %d th page'%(page_index))
         page_url = page['_id']
@@ -60,7 +59,10 @@ def parse_reporters():
         reporter = re.findall(pattern, tweet_reporter_object['href'])[0]
         cursor.update({'_id': page_url}, {"$set": {"reporter": reporter}})
         print page_url, reporter
-        counter[reporter] += 1
+        if reporter in counter:
+            counter[reporter] += 1
+        else:
+            counter[reporter] = 1
 
 def download_reporter(user_id):
     mongo_interface_insert_data = utils.MongoInterface('rumor')
